@@ -1,1 +1,1 @@
---platform=linux/arm/v7 p3terx/ariang:latest
+imzcc/openresty:1.21.4.1-7-alpine
