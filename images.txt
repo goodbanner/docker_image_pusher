@@ -1,1 +1,1 @@
-imzcc/openresty:1.21.4.1-7-alpine
+--platform=linux/arm/v7 xiaoyaliu/alist:latest
