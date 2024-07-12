@@ -1,2 +1,1 @@
---platform=linux/arm/v7 xiaoyaliu/alist
---platform=linux/arm/v7 homeassistant/home-assistant:latest
+--platform=linux/arm64 neosmemo/memos:latest
